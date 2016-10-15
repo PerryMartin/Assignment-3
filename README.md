@@ -3,6 +3,7 @@
  * Created by: Perry Martin
  * Created on: Oct 2016
  * Assignment 3 Binary search
- *
+ 
+ 
  ****************************************************************************/
 
